@@ -1,0 +1,4 @@
+/target/
+[._]*.sw[a-p]
+**/*.rs.bk
+Cargo.lock
