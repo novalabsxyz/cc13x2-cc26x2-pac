@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["Robert Keith <robertfkeith@me.com>"]
 edition = "2018"
 description = "Peripheral access API for cc13x2 and cc26x2 microcontrollers"
-keywords = ["no-std", "arm", "cortex-m", "cc13x2-cc26x2", "cc13x2", "cc26x2"]
+keywords = ["no-std", "arm", "cortex-m", "cc13x2", "cc26x2"]
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/helium/cc13x2-cc26x2-pac"
 
