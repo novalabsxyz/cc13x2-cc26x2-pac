@@ -1,5 +1,5 @@
 [package]
-name = "cc13x2-cc26x2-hal"
+name = "cc13x2-cc26x2-pac"
 version = "0.1.0"
 authors = ["Robert Keith <robertfkeith@me.com>"]
 edition = "2018"
